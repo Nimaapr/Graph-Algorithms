@@ -63,10 +63,12 @@ g.add_edge(2, 3)
 g.add_edge(3, 8)
 g.add_edge(3, 9)
 g.add_edge(3, 10)
+g.add_edge(10, 11)
 g.add_edge(4, 2)
 g.add_edge(4, 5)
 g.add_edge(4, 6)
 g.add_edge(4, 7)
+
 
 
 # Perform DFS starting from vertex 2
